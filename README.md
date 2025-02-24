@@ -1,4 +1,6 @@
-<img src="header.png" alt="Header" width="100%" />
+<img src="Header.png" alt="Header" width="1302px"/>
+
+<h1 align="center">https://alex.byte4byte.com</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexanderLindholt/AlexanderLindholt/output/github-snake-dark.svg" />
