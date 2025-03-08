@@ -1,9 +1,14 @@
-<img src="Header.png" alt="Header" width="1302px"/>
-
-<h1 align="center">https://alex.byte4byte.com</h1>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexanderLindholt/AlexanderLindholt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexanderLindholt/AlexanderLindholt/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AlexanderLindholt/AlexanderLindholt/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <img src="Header.png" width="1302px"/>
+  
+  <br><br><br>
+  
+  <h1>Creator of quality</h1>
+  • Open-source libraries<br>
+  • Software plugins<br>
+  • Discord bots<br>
+  • Games<br>
+  ...
+  <br><br>
+  <a href="https://alex.byte4byte.com"><img src="See_more.png"></img></a>
+</div>
