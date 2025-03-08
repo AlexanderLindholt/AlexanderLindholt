@@ -1,8 +1,6 @@
 <div align="center">
   <img src="Header.png" width="1302px"/>
-  
-  <br><br><br>
-  
+  <br><br>
   <h1>Creator of quality</h1>
   • Open-source libraries<br>
   • Software plugins<br>
