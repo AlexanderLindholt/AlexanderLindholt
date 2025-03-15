@@ -8,5 +8,5 @@
   • Games<br>
   ...
   <br><br>
-  <a href="https://alex.byte4byte.com"><img src="See_more.png"></img></a>
+  <a href="https://alex.byte4byte.com"><img src="SeeMore.png"></img></a>
 </div>
