@@ -4,7 +4,7 @@
   <h1>Creator of quality</h1>
   • Open-source libraries<br>
   • Software plugins<br>
-  • Discord bots<br>
+  • Dev tutorials<br>
   • Games<br>
   ...
   <br><br>
